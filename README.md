@@ -2,8 +2,6 @@
 
 This repository contains materials used in conjunction the workshop. In addition to the pre-requisites listed below, workshop participants will need to download the ZIP file included in the latest [release](https://github.com/dyalog-training/2022-SA3/releases).
 
-We hope to have everything in place at the beginning of the working week before by workshop, and will change this message when that is done. Presentation materials (PowerPoint, etc.) will be uploaded after the workshop.
-
 ## Pre-requisites
 
 - Dyalog v18.0 or v18.2 – Unicode/Classic, 32/64-bit, any supported operating system
